@@ -104,7 +104,8 @@ kubectl exec -it <frontend-pod-name> -- curl http://payment-service
 Project Structure
 
 k8s-microservices/
-│
+
+
 ├─ frontend-service/      # Frontend code & Dockerfile
 
 ├─ user-service/          # User API & Dockerfile
